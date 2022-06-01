@@ -1,0 +1,47 @@
+.label.label-inline {
+    width: auto;
+    padding: 0.15rem 0.75rem;
+    border-radius: 0.42rem;
+}
+
+.label.label-light-primary {
+    color: #3699FF;
+    background-color: #E1F0FF;
+}
+
+.label.label-light-success {
+    color: #1BC5BD;
+    background-color: #C9F7F5;
+}
+
+.label.label-light-warning {
+    color: #FFA800;
+    background-color: #FFF4DE;
+}
+
+.label.label-light-danger {
+    color: #F64E60;
+    background-color: #FFE2E5;
+}
+
+.timeline-label .timeline-label {
+    width: 100px;
+}
+
+.timeline-label:before {
+    left: 100px;
+}
+
+.landing-light-success-bg {
+    background-color: #E8FFF3;
+}
+
+.landing-success-color {
+    color: #47be7d;
+}
+.min-h-200px{
+    min-height: 200px;
+}
+.max-h-250px{
+    max-height: 250px;
+}

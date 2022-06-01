@@ -1,0 +1,39 @@
+@font-face {
+    font-family: PoppinsLight;
+    src: url('../css/fonts/web/Poppins-light.ttf');
+}
+
+@font-face {
+    font-family: PoppinsMedium;
+    src: url('../css/fonts/web/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: PoppinsRegular;
+    src: url('../css/fonts/web/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: SoraBold;
+    src: url('../css/fonts/web/Sora-Bold.ttf');
+}
+
+@font-face {
+    font-family: SoraExtraBold;
+    src: url('../css/fonts/web/Sora-ExtraBold.ttf');
+}
+
+body {
+    font-family: PoppinsMedium;
+}
+
+.title,
+.heading,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: SoraBold;
+}
